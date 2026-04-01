@@ -2,6 +2,10 @@
   <strong>Awesome-Skill-Synthesis</strong>
 </h1>
 
+<div align="center">
+
+  [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
+
 <p align="center">
  A curated collection of resources (e.g., papers, datasets, frameworks) on skill synthesis for advancing agentic intelligence.
 </p>
@@ -9,6 +13,8 @@
 <h3 align="center">
   <strong>🤖 Stay tuned — the repo is under active development! 🤖<br>⭐ Star this repo if you find it helpful! ⭐</strong>
 </h3>
+
+</div>
 
 ## 1. Skill Synthesis from Dialogues
 - (*Arxiv'26*) *AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution*  [[📝 Paper](https://arxiv.org/pdf/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]  
