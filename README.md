@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🤖 Stay tuned — the repository is under active development! 🤖<br>⭐ Star it if you think helpful! ⭐</strong>
+  <strong>🤖 Stay tuned — the repo is under active development! 🤖<br>⭐ Star this repo if you find it helpful! ⭐</strong>
 </h3>
 
 ## 1. Skill Synthesis from Dialogues
