@@ -20,9 +20,6 @@
 - (*Arxiv'26*) *AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution*  [[📝 Paper](https://arxiv.org/pdf/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]  
 → A training-free framework that distills skills from conversations.
 
-- (*Arxiv'26*) *MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild*  [[📝 Paper](https://arxiv.org/pdf/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]  
-→ A continual framework that synthesizes reusable behavioral skills from live conversations and failure episodes.
-
 
 ## 2. Skill Synthesis via Self-Distillation
 - (*Arxiv'26*) *SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning*  [[📝 Paper](https://arxiv.org/pdf/2602.08234)] [[💻 Code](https://github.com/aiming-lab/SkillRL)]  
@@ -30,6 +27,9 @@
 
 - (*Arxiv'26*) *EvoSkill: Automated Skill Discovery for Multi-Agent Systems*  [[📝 Paper](https://arxiv.org/pdf/2603.02766)] [[💻 Code](https://github.com/sentient-agi/EvoSkill)]  
 → A framework that distills skills via failure analysis by text feedback.
+
+- (*Arxiv'26*) *MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild*  [[📝 Paper](https://arxiv.org/pdf/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]  
+→ A continual learning framework that synthesizes skills from failure trajectories.
 
 - (*Arxiv'25*) *SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills*  [[📝 Paper](https://arxiv.org/pdf/2504.07079)] [[💻 Code](https://github.com/OSU-NLP-Group/SkillWeaver)]  
 → A web-agent framework that distills exploration and practice experiences into reusable APIs that transfer across agents.
