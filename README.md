@@ -16,11 +16,11 @@
 
 </div>
 
-## 1. Skill Synthesis from Dialogues
+## 1. Skill Synthesis from External Knowledge
 - (*Arxiv'26*) *AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution*  [[📝 Paper](https://arxiv.org/pdf/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]  
 → A training-free framework that distills skills from conversations.
 
-## 2. Skill Synthesis from Responses/Trajectories
+## 2. Skill Synthesis via Self-Distillation
 - (*Arxiv'26*) *SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning*  [[📝 Paper](https://arxiv.org/pdf/2602.08234)] [[💻 Code](https://github.com/aiming-lab/SkillRL)]  
 → An RL framework that distills rollout trajectories into a hierarchical skill library and recursively evolves these skills during training.
 
