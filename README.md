@@ -26,3 +26,6 @@
 
 - (*Arxiv'26*) *EvoSkill: Automated Skill Discovery for Multi-Agent Systems*  [[📝 Paper](https://arxiv.org/pdf/2603.02766)] [[💻 Code](https://github.com/sentient-agi/EvoSkill)]  
 → A framework that distills skills via failure analysis by text feedback.
+
+- (*Arxiv'26*) *XSKILL: Continual Learning from Experience and Skills in Multimodal Agents*  [[📝 Paper](https://arxiv.org/pdf/2603.12056)] [[💻 Code](https://github.com/XSkill-Agent/XSkill)]  
+→ A training-free framework that distills skills from trajectories, where the distilled skills are grounded in both textual and visual inputs.
