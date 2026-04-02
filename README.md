@@ -44,7 +44,7 @@
 → A continual learning framework that synthesizes skills from failure trajectories.
 
 - (*Arxiv'25*) *SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills*  [[📝 Paper](https://arxiv.org/pdf/2504.07079)] [[💻 Code](https://github.com/OSU-NLP-Group/SkillWeaver)]  
-→ A web-agent framework that distills exploration and practice experiences into reusable APIs that transfer across agents.
+→ A web agent framework that distills exploration and practice experiences into reusable APIs.
 
 - (*Arxiv'25*) *SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience*  [[📝 Paper](https://arxiv.org/pdf/2508.04700)] [[💻 Code](https://github.com/SunzeY/SEAgent)]  
 → A self-evolving computer-use agent that learns reusable skills from trial-and-error trajectories in unfamiliar software.
