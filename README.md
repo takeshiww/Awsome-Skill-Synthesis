@@ -41,7 +41,7 @@
 → A framework that distills skills via failure analysis by text feedback.
 
 - (*Arxiv'26*) *MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild*  [[📝 Paper](https://arxiv.org/pdf/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]  
-→ A continual learning framework that synthesizes skills from failure trajectories and asynchronously update the policy model (with LORA) using the evolving skill library.
+→ A continual learning framework that synthesizes skills from failure trajectories and asynchronously updates the policy model (via LoRA) using the evolving skill library.
 
 - (*Arxiv'25*) *SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills*  [[📝 Paper](https://arxiv.org/pdf/2504.07079)] [[💻 Code](https://github.com/OSU-NLP-Group/SkillWeaver)]  
 → A web agent framework that distills exploration and practice experiences into reusable APIs.
