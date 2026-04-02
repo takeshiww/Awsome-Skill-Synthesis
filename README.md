@@ -20,7 +20,7 @@
 - (*Arxiv'26*) *AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution*  [[📝 Paper](https://arxiv.org/pdf/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]  
 → A training-free framework that distills skills from conversations.
 
-- (*Arxiv'26*) *CUA-Skill: Develop Skills for Computer Using Agent*  [[📝 Paper](https://arxiv.org/pdf/2601.21123)] [[💻 Project](https://microsoft.github.io/cua_skill/)]  
+- (*Arxiv'26*) *CUA-Skill: Develop Skills for Computer Using Agent*  [[📝 Paper](https://arxiv.org/pdf/2601.21123)] [[💻 Code](https://github.com/microsoft/cua_skill)]  
 → A systematic skill library for desktop computer use, encoding human knowledge as reusable, parameterized skills with dynamic retrieval and failure recovery.
 
 - (*Arxiv'25*) *ALLOY: Generating Reusable Agent Workflows from User Demonstration*  [[📝 Paper](https://arxiv.org/pdf/2510.10049)]  
