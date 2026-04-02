@@ -21,7 +21,7 @@
 → A training-free framework that distills skills from conversations.
 
 - (*Arxiv'26*) *CUA-Skill: Develop Skills for Computer Using Agent*  [[📝 Paper](https://arxiv.org/pdf/2601.21123)] [[💻 Code](https://github.com/microsoft/cua_skill)]  
-→ A systematic skill library for desktop computer use, encoding human knowledge as reusable, parameterized skills with dynamic retrieval and failure recovery.
+→ A systematically curated skill library for building computer-use agents.
 
 - (*Arxiv'25*) *ALLOY: Generating Reusable Agent Workflows from User Demonstration*  [[📝 Paper](https://arxiv.org/pdf/2510.10049)]  
 → A PBD-inspired system that converts user demonstrations into reusable, editable, generalizable agent workflows for web tasks.
