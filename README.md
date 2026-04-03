@@ -24,7 +24,7 @@
 → A systematically curated skill library for building computer-use agents.
 
 - (*Arxiv'25*) *ALLOY: Generating Reusable Agent Workflows from User Demonstration*  [[📝 Paper](https://arxiv.org/pdf/2510.10049)]  
-→ A PBD-inspired system that converts user demonstrations into reusable, editable, generalizable agent workflows for web tasks.
+→ A system that converts user demonstrations into reusable, editable, generalizable agent workflows for web tasks.
 
 - (*Arxiv'25*) *LLM Agents Making Agent Tools*  [[📝 Paper](https://arxiv.org/pdf/2502.11705)] [[💻 Code](https://github.com/KatherLab/ToolMaker)]  
 → An agentic framework that autonomously converts scientific papers with code into LLM-compatible reusable tools.
