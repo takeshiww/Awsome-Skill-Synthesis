@@ -17,6 +17,9 @@
 </div>
 
 ## 1. Skill Synthesis from External Knowledge
+- (*TMLR'24*) *Voyager: An Open-Ended Embodied Agent with Large Language Models*  [[📝 Paper](https://arxiv.org/pdf/2504.20406)] [[💻 Code](https://github.com/MineDojo/Voyager)] 
+→ A pioneering embodied lifelong-learning agent that builds an ever-growing executable code skill library from exploration and environment feedback.
+
 - (*Arxiv'26*) *AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution*  [[📝 Paper](https://arxiv.org/pdf/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]  
 → A training-free framework that distills skills from conversations.
 
