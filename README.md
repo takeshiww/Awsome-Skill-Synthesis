@@ -42,12 +42,15 @@
 ## 2. Skill Synthesis from Experience
 Methods that derive, refine, or maintain reusable skills from agent-environment experience, including trajectories, failures, feedback, and deployment histories.
 
-### 2.1 General Interactive Agent Tasks
+### 2.1 General Embodied and Interactive Agent Tasks
 - (*Arxiv'26*) *SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning*  [[📝 Paper](https://arxiv.org/pdf/2602.08234)] [[💻 Code](https://github.com/aiming-lab/SkillRL)]  
 → An RL framework that distills rollout trajectories into a hierarchical skill library and recursively evolves these skills during training.
 
 - (*Arxiv'25*) *Automated Skill Discovery for Language Agents through Exploration and Iterative Feedback*  [[📝 Paper](https://arxiv.org/pdf/2506.04287)]  
 → An exploration-first skill discovery framework where one agent explores environments to generate feasible skill datasets for training another.
+
+- (*Arxiv'26*) *SkillX: Automatically Constructing Skill Knowledge Bases for Agents*  [[📝 Paper](https://arxiv.org/abs/2604.04804)] [[💻 Code](https://github.com/zjunlp/SkillX)]  
+→ Automatically constructs a plug-and-play hierarchical skill knowledge base through multi-level skill design, iterative refinement, and exploratory expansion.
 
 ### 2.2 Web Navigation and Browser Automation
 - (*Arxiv'25*) *SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills*  [[📝 Paper](https://arxiv.org/pdf/2504.07079)] [[💻 Code](https://github.com/OSU-NLP-Group/SkillWeaver)]  
@@ -80,6 +83,10 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 ### 2.6 Domain-Specific Expert Agents
 - (*Arxiv'26*) *MACRO: Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery*  [[📝 Paper](https://arxiv.org/pdf/2603.05860)]  
 → A medical imaging agent that discovers recurring multi-step tool sequences from execution experience and synthesizes them into reusable composite tools.
+
+### 2.7 Robotics and Embodied Control
+- (*Arxiv'26*) *ASPIRE: Agentic Skills Discovery for Robotics* [[📝 Paper](https://arxiv.org/pdf/2607.00272)]  
+→ A continual robotics framework that synthesizes reusable robot skills from multimodal execution traces, failure diagnosis, and validated program repairs.
 
 
 <!--- (*Arxiv'25*) *SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience*  [[📝 Paper](https://arxiv.org/pdf/2508.04700)] [[💻 Code](https://github.com/SunzeY/SEAgent)]  
