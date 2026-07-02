@@ -73,6 +73,9 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 - (*Arxiv'26*) *Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills*  [[📝 Paper](https://arxiv.org/pdf/2603.25158)]  
 → Distills broad agent execution experience into transferable, conflict-free declarative skill directories via hierarchical inductive consolidation.
 
+- (*Arxiv'26*) *SkillSmith: Co-Evolving Skills and Tools for Self-Improving Agent Systems* [[📝 Paper](https://arxiv.org/pdf/2606.01314)]  
+→ A self-improving agent framework that co-evolves reusable skills and tools from execution traces, while retaining anti-pattern memory to avoid repeated failures.
+
 ### 2.5 Continual and Deployed Agent Self-Evolution
 - (*Arxiv'26*) *MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild*  [[📝 Paper](https://arxiv.org/pdf/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]  
 → A continual learning framework that synthesizes skills from failure trajectories and asynchronously updates the policy model (via LoRA) using the evolving skill library.
