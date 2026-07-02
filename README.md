@@ -107,7 +107,15 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 <!--- (*Arxiv'26*) *ACuRL: Autonomous Continual Learning of Computer-Use Agents for Environment Adaptation*  [[📝 Paper](https://arxiv.org/pdf/2602.10356)] [[💻 Code](https://github.com/OSU-NLP-Group/ACuRL)]  
 → An autonomous curriculum RL framework enabling computer-use agents to continually adapt to new environments with zero human data.  -->
 
-## 3. Surveys & Systematization
+## 3. Test-Time Skill Synthesis
+- (*Arxiv'26*) *SkillGen: Verified Inference-Time Agent Skill Synthesis* [[📝 Paper](https://arxiv.org/pdf/2605.10999)] [[💻 Code](https://github.com/yccm/SkillGen)]  
+→ A verified inference-time skill synthesis framework that derives an auditable skill from successful and failed agent trajectories through contrastive induction, iterative refinement, and paired performance verification.
+
+- (*Arxiv'26*) *Skills on the Fly: Test-Time Adaptive Skill Synthesis for LLM Agents* [[📝 Paper](https://arxiv.org/pdf/2605.16986)]  
+→ A test-time adaptive skill synthesis method that retrieves relevant training trajectories and compresses them online into temporary, task-specific textual skills without parameter updates.
+
+
+## 4. Surveys & Systematization
 - (*Arxiv'26*) *Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward*  [[📝 Paper](https://arxiv.org/pdf/2602.12430)] [[💻 Code](https://github.com/scienceaix/agentskills)]  
 → A comprehensive survey covering skill architecture, acquisition methods, deployment at scale, security, and governance for LLM agents.
 
