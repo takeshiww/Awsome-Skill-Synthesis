@@ -52,6 +52,9 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 - (*Arxiv'26*) *SkillX: Automatically Constructing Skill Knowledge Bases for Agents*  [[📝 Paper](https://arxiv.org/abs/2604.04804)] [[💻 Code](https://github.com/zjunlp/SkillX)]  
 → Automatically constructs a plug-and-play hierarchical skill knowledge base through multi-level skill design, iterative refinement, and exploratory expansion.
 
+- (*Arxiv'26*) *Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning* [[📝 Paper](https://arxiv.org/pdf/2605.06130)]  
+→ A reinforcement learning framework that jointly evolves skill selection, skill utilization, and skill distillation from agent trajectories.
+
 ### 2.2 Web Navigation and Browser Automation
 - (*Arxiv'25*) *SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills*  [[📝 Paper](https://arxiv.org/pdf/2504.07079)] [[💻 Code](https://github.com/OSU-NLP-Group/SkillWeaver)]  
 → A web agent framework that distills exploration and practice experiences into reusable APIs.
@@ -83,6 +86,9 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 ### 2.6 Domain-Specific Expert Agents
 - (*Arxiv'26*) *MACRO: Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery*  [[📝 Paper](https://arxiv.org/pdf/2603.05860)]  
 → A medical imaging agent that discovers recurring multi-step tool sequences from execution experience and synthesizes them into reusable composite tools.
+
+- (*Arxiv'26*) *Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory* [[📝 Paper](https://arxiv.org/pdf/2606.09365)]  
+→ A self-evolving medical-agent framework that converts clinical interaction trajectories into reusable skill memory for continual reasoning improvement.
 
 ### 2.7 Robotics and Embodied Control
 - (*Arxiv'26*) *ASPIRE: Agentic Skills Discovery for Robotics* [[📝 Paper](https://arxiv.org/pdf/2607.00272)]  
