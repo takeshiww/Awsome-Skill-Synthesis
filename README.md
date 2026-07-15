@@ -124,8 +124,11 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 - (*Arxiv'26*) *SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces*  [[📝 Paper](https://arxiv.org/pdf/2605.15215)] [[💻 Code](https://github.com/AetherHeart-AI/Aeloon)]  
 → Compiles skill packages into minimal executable boundary-guided interfaces to reduce irrelevant context injection and repeated reasoning overhead.
 
+- (*Arxiv'26*) *SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems* [[📝 Paper](https://arxiv.org/pdf/2605.13716)] [[💻 Code](https://github.com/Hik289/SkillOps)]  
+→ A method-agnostic maintaining framework that represents skills with typed contracts, organizes skills with a hierarchical skill ecosystem graph, and diagnoses library-level utility, compatibility, risk, and validation issues.
 
-
+- (*Arxiv'26*) *SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents* [[📝 Paper](https://arxiv.org/pdf/2605.03353)]  
+→ A skill compiler with a typed intermediate representation for cross-framework portability and compile-time security checks.
 
 
 ## 5. Surveys & Systematization
