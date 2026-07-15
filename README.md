@@ -114,8 +114,21 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 - (*Arxiv'26*) *Skills on the Fly: Test-Time Adaptive Skill Synthesis for LLM Agents* [[📝 Paper](https://arxiv.org/pdf/2605.16986)]  
 → A test-time adaptive skill synthesis method that retrieves relevant training trajectories and compresses them online into temporary, task-specific textual skills without parameter updates.
 
+## 4. Skill Representation, Compilation, and Maintenance
+- (*Arxiv'26*) *From Skill Text to Skill Structure: The Scheduling-Theoretic Foundations of Agent Skill Composition* [[📝 Paper](https://arxiv.org/pdf/2604.24026)]  
+→ Convert text-heavy skill artifacts into structured, schedulable representations for reliable skill composition.
 
-## 4. Surveys & Systematization
+- (*Arxiv'26*) *SkVM: Revisiting Language VM for Skills across Heterogenous LLMs and Harnesses* [[📝 Paper](https://arxiv.org/pdf/2604.03088)]   
+→ A compilation and runtime system for portable and efficient skill execution.
+
+- (*Arxiv'26*) *SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces*  [[📝 Paper](https://arxiv.org/pdf/2605.15215)] [[💻 Code](https://github.com/AetherHeart-AI/Aeloon)]  
+→ Compiles skill packages into minimal executable boundary-guided interfaces to reduce irrelevant context injection and repeated reasoning overhead.
+
+
+
+
+
+## 5. Surveys & Systematization
 - (*Arxiv'26*) *Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward*  [[📝 Paper](https://arxiv.org/pdf/2602.12430)] [[💻 Code](https://github.com/scienceaix/agentskills)]  
 → A comprehensive survey covering skill architecture, acquisition methods, deployment at scale, security, and governance for LLM agents.
 
