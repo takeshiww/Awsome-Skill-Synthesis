@@ -130,7 +130,7 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 - (*Arxiv'26*) *SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents* [[📝 Paper](https://arxiv.org/pdf/2605.03353)]  
 → A skill compiler with a typed intermediate representation for cross-framework portability and compile-time security checks.
 
-## 6. Evaluation, Security, and Ecosystem Analysis
+## 5. Evaluation, Security, and Ecosystem Analysis
 - (*Arxiv'26*) *SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks* [[📝 Paper](https://arxiv.org/pdf/2602.12670)] [[📦 Project](https://www.skillsbench.ai/)]  
 → A benchmark of 87 tasks across 8 domains with curated skills and deterministic verifiers, evaluating no-skill, curated-skill, and self-generated-skill settings for 18 model-harness configurations.
 
@@ -140,7 +140,7 @@ Methods that derive, refine, or maintain reusable skills from agent-environment 
 
 
 
-## 5. Surveys & Systematization
+## 6. Surveys & Systematization
 - (*Arxiv'26*) *Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward*  [[📝 Paper](https://arxiv.org/pdf/2602.12430)] [[💻 Code](https://github.com/scienceaix/agentskills)]  
 → A comprehensive survey covering skill architecture, acquisition methods, deployment at scale, security, and governance for LLM agents.
 
